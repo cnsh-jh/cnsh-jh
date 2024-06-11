@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>충곽 분실물 센터</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>충곽 분실물 센터</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">홈</a></li>
+                <li><a href="lost-items.html">분실물 목록</a></li>
+                <li><a href="register-lost-item.html">분실물 등록</a></li>
+                <li><a href="my-account.html">내 계정</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>분실물을 찾으세요?</h2>
+            <a href="lost-items.html" class="button">분실물 목록 보기</a>
+            <a href="register-lost-item.html" class="button">분실물 등록하기</a>
+        </section>
+    </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
